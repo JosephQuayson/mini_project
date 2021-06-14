@@ -1,0 +1,483 @@
+html,
+body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+#jq-1 {
+    /* width: 100%; */
+    /* height: 30px; */
+    background-color: gray;
+    text-align: center;
+    /* position: fixed; */
+    /* margin-top: 0px; */
+    /* top: 0px; */
+    padding: 2px;
+}
+
+.jq-4 {
+    position: relative;
+    right: -980px;
+    top: -155px;
+    text-decoration: none;
+}
+
+.jq4 {
+    margin: 5px;
+    color: navy;
+    text-decoration: none;
+}
+
+.jq4 #bag {
+    margin: 5px;
+    color: navy;
+    text-decoration: none;
+}
+
+.jq-2 {
+    margin: 10px;
+    color: navy;
+}
+
+.jq-2 .find {
+    font-weight: bold;
+    padding: 5px;
+}
+
+.jq-2 .find:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.jq-4 {
+    position: relative;
+    right: -980px;
+    top: -155px;
+}
+
+.jq4 {
+    margin: 5px;
+    color: navy;
+}
+
+.jq-4:hover {
+    cursor: pointer;
+}
+
+
+/* .jq-2 p {
+            text-decoration: underline;
+            color: navy;
+        } */
+
+.jq-2 .contact {
+    padding: 5px;
+}
+
+.jq-1t {
+    color: white;
+    /* padding-bottom: -10px; */
+}
+
+img {
+    width: 20%;
+    height: 20%;
+    position: relative;
+    right: -450px;
+    top: -80px;
+}
+
+.Check {
+    /* font-weight: bold; */
+    font-size: 15px;
+    margin: 8px;
+    color: navy;
+}
+
+.Check:hover {
+    color: white;
+    cursor: pointer;
+    background-color: gray;
+    padding: 5px;
+}
+
+.jq-spn {
+    position: relative;
+    right: -300px;
+    top: -85px;
+    width: 100%;
+}
+
+.jq-spn1 {
+    position: relative;
+    right: -990px;
+    top: -98px;
+    width: 100%;
+}
+
+.underl {
+    position: relative;
+    top: -90px;
+}
+
+.Check-In {
+    position: relative;
+    top: -5px;
+    right: -100px;
+}
+
+.fa-luggage-cart {
+    width: 5px;
+    height: 5px;
+    border: 3px solid red;
+}
+
+.product .im1 {
+    position: relative;
+    left: 220px;
+    top: -519px;
+}
+
+.im1 {
+    width: 40%;
+    height: 40%;
+}
+
+.im2 {
+    position: relative;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    left: 10px;
+    border: 2px solid tomato;
+}
+
+.description {
+    background-color: white;
+    width: 40%;
+    position: relative;
+    left: 800px;
+    top: -1169px;
+    height: 500px;
+}
+
+.star {
+    color: navy;
+}
+
+.but {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(122, 122, 168);
+    color: white;
+    /* border-radius: 10px; */
+    border: none;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.but:hover {
+    background-color: navy;
+}
+
+.description .a {
+    border-color: navy;
+    width: 35px;
+    height: 35px;
+    border-radius: 100px;
+}
+
+.description .a:hover {
+    background-color: navy;
+}
+
+.description .b {
+    border-color: navy;
+    width: 80px;
+    height: 20px;
+}
+
+.description .c {
+    border-color: navy;
+    height: 35px;
+    width: 35px;
+    border-radius: 100px;
+}
+
+.description .c:hover {
+    background-color: navy;
+}
+
+.description .add-to {
+    margin-top: 70px;
+    width: 400px;
+    height: 60px;
+}
+
+.description .add-to {
+    color: white;
+    background-color: navy;
+}
+
+.description .paybut {
+    width: 400px;
+    height: 60px;
+    margin-top: 10px;
+}
+
+.colors .butc {
+    background-color: tomato;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+}
+
+.colors .butd {
+    background-color: gray;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+}
+
+.colors .bute {
+    background-color: rgb(108, 108, 179);
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+}
+
+.colors .butf {
+    background-color: teal;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+}
+
+.colors .butg {
+    background-color: whitesmoke;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+}
+
+.size {
+    margin-top: 20px;
+}
+
+.header {
+    background-color: black;
+    height: 50px;
+    color: white;
+    /* margin-top: 0; */
+    text-align: center;
+    padding: 4px;
+}
+
+.cart-page {
+    background-color: whitesmoke;
+    width: 40%;
+    height: 600px;
+    /* border: 2px solid black; */
+    padding: 2px;
+    position: relative;
+    right: -800px;
+    top: -1700px;
+    overflow-x: hidden;
+    z-index: 499;
+    /* display: none; */
+}
+
+.shirt img {
+    width: 50%;
+    height: 30%;
+    position: relative;
+    right: -12px;
+    top: 0px;
+}
+
+.descript {
+    width: 40%;
+    /* border: 2px solid teal; */
+    position: relative;
+    left: 320px;
+    top: -330px;
+}
+
+.hr {
+    position: relative;
+    top: -205px;
+}
+
+.total {
+    /* border: 5px solid teal; */
+    position: relative;
+    top: -220px;
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+
+.price {
+    position: relative;
+    right: -410px;
+    top: -40px;
+    color: white
+}
+
+#progress {
+    background-color: rgb(226, 225, 225);
+    border-radius: 13px;
+    height: 5px;
+    width: 96%;
+    padding: 3px;
+    position: relative;
+    top: -240px;
+}
+
+#progress::after {
+    content: '';
+    display: block;
+    background-color: rgb(155, 155, 197);
+    border-radius: 9px;
+    height: 5px;
+    width: 60%;
+}
+
+.hr1 {
+    position: relative;
+    top: -230px;
+}
+
+.checkout {
+    width: 400px;
+    height: 60px;
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.paybut {
+    width: 400px;
+    height: 60px;
+    margin-top: 10px;
+    color: black;
+    /* background-color: navy; */
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.pay1 {
+    position: relative;
+    top: -240px;
+    right: -75px;
+}
+
+.myClose {
+    position: relative;
+    left: 240px;
+    top: -40px;
+    color: red;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.Home {
+    position: relative;
+    left: 590px;
+    top: -30px;
+}
+
+.Home1 {
+    text-decoration: none;
+    margin-right: 10px;
+    color: white;
+}
+
+.Home1:hover {
+    color: blue;
+}
+
+.itm {
+    width: 100%;
+    background-color: whitesmoke;
+    border: 1px solid tomato;
+}
+
+.itm #b {
+    width: 25%;
+    height: 50%;
+    position: relative;
+    left: 100px;
+    top: 0px;
+}
+
+.final-pay {
+    border-radius: 55px;
+    position: relative;
+    left: 1070px;
+    top: -150px;
+    width: 150px;
+    height: 50px;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.final-pay:hover {
+    background-color: rgb(171, 171, 201);
+    color: navy;
+}
+
+.butt {
+    position: relative;
+    right: -600px;
+    top: -200px;
+    display: block;
+}
+
+.delete {
+    background-color: tomato;
+    width: 150px;
+    height: 50px;
+    color: whitesmoke;
+    border: none;
+    border-radius: 15px;
+}
+
+.total-cost {
+    background-color: navy;
+    width: 150px;
+    height: 50px;
+    color: whitesmoke;
+    border: none;
+    border-radius: 15px;
+}
+
+.add-coupon {
+    background-color: navy;
+    width: 150px;
+    height: 50px;
+    color: whitesmoke;
+    border: none;
+    border-radius: 15px;
+}
+
+.push {
+    position: relative;
+    right: -800px;
+    top: -500px;
+}
+
+.update {
+    background-color: navy;
+    color: whitesmoke;
+}
